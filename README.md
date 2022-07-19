@@ -7,6 +7,7 @@ https://github.com/Gzmylmz01/kodluyoruzilkrepo.git
 
 # Usage
 cd kodluyoruzilkrepo
+
 code .
 
 # Contributing
